@@ -1,0 +1,91 @@
+[
+  {
+    "id": 1,
+    "title": "El principito",
+    "price": 250,
+    "thumbnail": "image",
+    "code": 1556,
+    "stock": 5
+  },
+  {
+    "id": 2,
+    "title": "Cien años de soledad",
+    "description": "Premio Nobel",
+    "price": 550,
+    "thumbnail": "image",
+    "code": 1557,
+    "stock": 15
+  },
+  {
+    "id": 3,
+    "title": "La metamorfosis",
+    "description": "Sombría",
+    "price": 150,
+    "thumbnail": "image",
+    "code": 1558,
+    "stock": 3
+  },
+  {
+    "id": 4,
+    "title": "El mundo de Sofía",
+    "description": "Filosofía",
+    "price": 350,
+    "thumbnail": "image",
+    "code": 1559,
+    "stock": 20
+  },
+  {
+    "id": 5,
+    "title": "El Perfume",
+    "description": "Sombría",
+    "price": 200,
+    "thumbnail": "image",
+    "code": 1560,
+    "stock": 12
+  },
+  {
+    "id": 6,
+    "title": "El amor en los tiiempos del cólera",
+    "description": "Sombría",
+    "price": 500,
+    "thumbnail": "image",
+    "code": 1561,
+    "stock": 7
+  },
+  {
+    "id": 7,
+    "title": "La hojarasca",
+    "description": "Sombría",
+    "price": 150,
+    "thumbnail": "image",
+    "code": 1562,
+    "stock": 10
+  },
+  {
+    "id": 8,
+    "title": "El general en su laberinto",
+    "description": "Sombría",
+    "price": 450,
+    "thumbnail": "image",
+    "code": 1563,
+    "stock": 8
+  },
+  {
+    "id": 9,
+    "title": "El diario de Ana Frank",
+    "description": "Sombría",
+    "price": 560,
+    "thumbnail": "image",
+    "code": 1564,
+    "stock": 10
+  },
+  {
+    "id": 10,
+    "title": "Un cuento negro para una negra noche",
+    "description": "Sombría",
+    "price": 50,
+    "thumbnail": "image",
+    "code": 1565,
+    "stock": 5
+  }
+]
